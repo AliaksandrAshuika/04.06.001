@@ -4,6 +4,12 @@ msgid "config directory doesn't contain a conf.py file (%s)"
 msgstr ""
 msgctxt "test text"
 
+#: sphinx/application.py:158
+#, python-format
+msgid "12341234 directory doesn't contain a conf.py file (%s)"
+msgstr ""
+msgctxt "test text"
+
 #: sphinx/application.py:162
 #, python-format
 msgid "Cannot find source directory (%s)"
