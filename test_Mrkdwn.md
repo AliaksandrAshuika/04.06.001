@@ -10,6 +10,8 @@ teaser:
 toc: true
 ---
 
+![1](https://prikolnye-kartinki.ru/img/picture/Jan/31/cd47b809864a288682ad43078a9642ab/1.jpg)
+
 <!--
 This file is imported from https://github.com/ampproject/amphtml/blob/master/extensions/amp-a4a/amp-a4a-format.md.
 Please do not change this file.
