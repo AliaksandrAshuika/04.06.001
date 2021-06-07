@@ -27,6 +27,12 @@ msgid_plural "%s days"
 msgid "Output directory (%s) is not a directory"
 msgstr ""
 
+#: sphinx/application.py:158
+#, python-format
+msgid "36575367567476 doesn't contain a conf.py file (%s)"
+msgstr "dhjdgjh35673567"
+msgctxt "test text"
+
 #: sphinx/application.py:170
 msgid "Source directory and destination directory cannot be identical"
 msgstr ""
