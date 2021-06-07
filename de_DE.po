@@ -6,6 +6,12 @@ msgctxt "test text"
 
 #: sphinx/application.py:158
 #, python-format
+msgid "154326546config directory doesn't contain a conf.py file (%s)"
+msgstr "2546345735647"
+msgctxt "test text"
+
+#: sphinx/application.py:158
+#, python-format
 msgid "12341234 directory doesn't contain a conf.py file (%s)"
 msgstr ""
 msgctxt "test text"
